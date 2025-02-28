@@ -1,4 +1,4 @@
-# VAEs & Neural Data
+# From VAEs to DiffusionModels
 
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sazio/VAEs/)
 
